@@ -1,3 +1,4 @@
+//
 const bar = document.querySelector('.bar');
 const success = document.querySelector('.success') 
 const counter = document.querySelector('.counter  ') 
